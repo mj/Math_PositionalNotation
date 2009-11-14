@@ -1,0 +1,12 @@
+This is a PHP implementation of what is know as positional notation in
+mathematics.  It allows you to convert numbers between different bases.
+
+The code is PEAR compatible and can be installed using
+
+	$ pear install package.xml
+
+Run the unit tests via
+
+	$ ./runtests.sh
+
+Have fun!
